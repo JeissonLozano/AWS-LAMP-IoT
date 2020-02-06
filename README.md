@@ -14,6 +14,7 @@ En esta cuarta etapa está divida en tres partes:
 # Ejemplo de Frontend y Backend Usando MQTT y WebScocket
 - En el lado del cliente se usó HTML5, CSS3 y JavaScript
 - En el lado del servidor se usó PHP y en la base de datos MySQL.
+
 [![](http://img.youtube.com/vi/SMA4ok8lX1c/0.jpg)](http://www.youtube.com/watch?v=SMA4ok8lX1c "EJEMPLO FRONTEND Y BACKEND USANDO MQTT-WEBSOCKET")
  
 # A continuación video paso a paso de instalación LAMP en el servidor de AWS:
