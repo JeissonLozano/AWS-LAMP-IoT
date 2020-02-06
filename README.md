@@ -6,7 +6,7 @@ En esta cuarta etapa está divida en tres partes:
 
 2- Desarrollaremos del lado del cliente Frontend
 
-3- Desarrollaremos del lado del servidor y del cliente con PHP y la conexión a la base de datos con MySQL a traves de un puente creado en un script en PHP.
+3- Desarrollaremos del lado del servidor y cliente con PHP y la conexión a la base de datos con MySQL a traves de un puente creado en un script en PHP.
 
 # A continuación el esquema de conexión: 
 ![ESQUEMA DE CONEXIÓN ESP8266](https://github.com/JeissonLozano/AWS-LAMP-IoT/blob/master/CONEXI%C3%93N.png)
